@@ -1,0 +1,25 @@
+{
+  "name": "dot-printer",
+  "version": "0.1.0",
+  "description": "Node.js module for Epson dot matrix printers command line printing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawrsp/node-dot-printer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "dot",
+    "printer",
+    "printer"
+  ],
+  "author": "lawrsp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lawrsp/node-dot-printer/issues"
+  },
+  "homepage": "https://github.com/lawrsp/node-dot-printer#readme"
+}
